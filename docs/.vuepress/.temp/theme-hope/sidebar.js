@@ -1,0 +1,1 @@
+export const sidebarData = {"/people/":["README.md","one.md"],"/paper/":["README.md"],"/application/":["README.md"],"/seminar/":["README.md"],"/posts/":["README.md","article9.md","article10.md","article11.md","article12.md"],"/posts/article/":["article2.md","article3.md","article4.md","article5.md","article6.md","article7.md","article8.md","article1.md"]}
