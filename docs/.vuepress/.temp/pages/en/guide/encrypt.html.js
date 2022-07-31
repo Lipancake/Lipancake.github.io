@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-0c393394\",\"path\":\"/en/guide/encrypt.html\",\"title\":\"Encryption Article\",\"lang\":\"en-US\",\"frontmatter\":{\"icon\":\"lock\",\"category\":[\"Guide\"],\"tag\":[\"encryption\"],\"summary\":\"--- icon: lock category: Guide; tag: encryption; --- Encryption Article The actual article content. Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 \",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/en/guide/encrypt.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Theme Demo\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Encryption Article\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"meta\",{\"property\":\"og:locale:alternate\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"encryption\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.3,\"words\":90},\"filePathRelative\":\"en/guide/encrypt.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-0c393394\",\"path\":\"/en/guide/encrypt.html\",\"title\":\"Encryption Article\",\"lang\":\"en-US\",\"frontmatter\":{\"icon\":\"lock\",\"category\":[\"Guide\"],\"tag\":[\"encryption\"],\"summary\":\"--- icon: lock category: Guide; tag: encryption; --- Encryption Article The actual article content. Paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 text paragraph 1 \",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/en/guide/encrypt.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Theme Demo\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Encryption Article\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-07-28T09:12:40.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"meta\",{\"property\":\"og:locale:alternate\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:tag\",\"content\":\"encryption\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-07-28T09:12:40.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1658999560000,\"updatedTime\":1658999560000,\"contributors\":[{\"name\":\"LiPancake\",\"email\":\"370981991@qq.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.3,\"words\":90},\"filePathRelative\":\"en/guide/encrypt.md\",\"localizedDate\":\"July 28, 2022\"}")

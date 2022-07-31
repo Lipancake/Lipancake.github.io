@@ -9,10 +9,10 @@ export const pagesData = {
   "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
   // path: /en/slide.html
   "v-50a4c495": () => import(/* webpackChunkName: "v-50a4c495" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/slide.html.js").then(({ data }) => data),
-  // path: /posts/
-  "v-e1e3da16": () => import(/* webpackChunkName: "v-e1e3da16" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/index.html.js").then(({ data }) => data),
   // path: /people/
   "v-41699267": () => import(/* webpackChunkName: "v-41699267" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/people/index.html.js").then(({ data }) => data),
+  // path: /posts/
+  "v-e1e3da16": () => import(/* webpackChunkName: "v-e1e3da16" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/index.html.js").then(({ data }) => data),
   // path: /en/guide/disable.html
   "v-45af1cf1": () => import(/* webpackChunkName: "v-45af1cf1" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/guide/disable.html.js").then(({ data }) => data),
   // path: /en/guide/encrypt.html
