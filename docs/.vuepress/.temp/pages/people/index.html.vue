@@ -1,4 +1,4 @@
-<template><div><h1 id="people-0" tabindex="-1"><a class="header-anchor" href="#people-0" aria-hidden="true">#</a> people 0</h1>
+<template><div><h1 id="a-test" tabindex="-1"><a class="header-anchor" href="#a-test" aria-hidden="true">#</a> A test</h1>
 <h2 id="标题-2" tabindex="-1"><a class="header-anchor" href="#标题-2" aria-hidden="true">#</a> 标题 2</h2>
 <p>这里是内容。</p>
 <h3 id="标题-3" tabindex="-1"><a class="header-anchor" href="#标题-3" aria-hidden="true">#</a> 标题 3</h3>

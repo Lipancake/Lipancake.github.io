@@ -7,44 +7,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "项目主页",
-    "headers": [],
-    "path": "/README%20copy.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "博客主页",
     "headers": [],
     "path": "/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "幻灯片页",
-    "headers": [],
-    "path": "/slide.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/application/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -70,92 +35,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "布局与功能禁用",
-    "headers": [],
-    "path": "/guide/disable.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "密码加密的文章",
-    "headers": [],
-    "path": "/guide/encrypt.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Markdown 展示",
-    "headers": [
-      {
-        "level": 2,
-        "title": "Markdown 介绍",
-        "slug": "markdown-介绍",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown 配置",
-        "slug": "markdown-配置",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "Markdown 扩展",
-        "slug": "markdown-扩展",
-        "children": [
-          {
-            "level": 3,
-            "title": "VuePress 扩展",
-            "slug": "vuepress-扩展",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "主题扩展",
-            "slug": "主题扩展",
-            "children": []
-          },
-          {
-            "level": 3,
-            "title": "图片增强",
-            "slug": "图片增强",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/guide/markdown.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "页面配置",
-    "headers": [
-      {
-        "level": 2,
-        "title": "页面信息",
-        "slug": "页面信息",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "页面内容",
-        "slug": "页面内容",
-        "children": []
-      },
-      {
-        "level": 2,
-        "title": "页面结构",
-        "slug": "页面结构",
-        "children": []
-      }
-    ],
-    "path": "/guide/page.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "主要功能与配置演示",
+    "title": "引导页面",
     "headers": [
       {
         "level": 2,
@@ -164,54 +44,12 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/guide/",
+    "path": "/posts/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/paper/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "people 文章 1",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/people/one.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "people 0",
+    "title": "A test",
     "headers": [
       {
         "level": 2,
@@ -228,104 +66,6 @@ export const searchIndex = [
       }
     ],
     "path": "/people/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article10.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 11",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article11.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 12",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article12.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文档9",
-    "headers": [],
-    "path": "/posts/article9.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "引导页面",
-    "headers": [],
-    "path": "/posts/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/seminar/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -582,154 +322,203 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/posts/article/article1.html",
+    "path": "/posts/Disc/Disc02.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 2",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article2.html",
+    "title": "Discussion",
+    "headers": [],
+    "path": "/posts/Disc/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 3",
+    "title": "CS61a DISC 2",
     "headers": [
       {
         "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
+        "title": "Q1: Make Keeper",
+        "slug": "q1-make-keeper",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: Curry2 Diagram",
+        "slug": "q2-curry2-diagram",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: Curry2 Lambda",
+        "slug": "q3-curry2-lambda",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Make Keeper Redux",
+        "slug": "q4-make-keeper-redux",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Print N",
+        "slug": "q5-print-n",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q6: HOF Diagram Practice",
+        "slug": "q6-hof-diagram-practice",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q7: YY Diagram",
+        "slug": "q7-yy-diagram",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q8: Match Maker",
+        "slug": "q8-match-maker",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q9: Three Memory",
+        "slug": "q9-three-memory",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q10: Natural Chain",
+        "slug": "q10-natural-chain",
+        "children": []
       }
     ],
-    "path": "/posts/article/article3.html",
+    "path": "/posts/HW/HW1.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 4",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article4.html",
+    "title": "Homework",
+    "headers": [],
+    "path": "/posts/HW/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 5",
+    "title": "CS61a Lab 1 Variables & Functions, Control",
     "headers": [
       {
         "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
+        "title": "Q1-3: WWPD",
+        "slug": "q1-3-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Falling Factorial",
+        "slug": "q4-falling-factorial",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Sum Digits",
+        "slug": "q5-sum-digits",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q7: Double Eights",
+        "slug": "q7-double-eights",
+        "children": []
       }
     ],
-    "path": "/posts/article/article5.html",
+    "path": "/posts/Lab/Lab1.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 6",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article6.html",
+    "title": "Lab",
+    "headers": [],
+    "path": "/posts/Lab/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 7",
+    "title": "CS61a DISC 2",
     "headers": [
       {
         "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
+        "title": "Q1: Make Keeper",
+        "slug": "q1-make-keeper",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: Curry2 Diagram",
+        "slug": "q2-curry2-diagram",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: Curry2 Lambda",
+        "slug": "q3-curry2-lambda",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Make Keeper Redux",
+        "slug": "q4-make-keeper-redux",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Print N",
+        "slug": "q5-print-n",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q6: HOF Diagram Practice",
+        "slug": "q6-hof-diagram-practice",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q7: YY Diagram",
+        "slug": "q7-yy-diagram",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q8: Match Maker",
+        "slug": "q8-match-maker",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q9: Three Memory",
+        "slug": "q9-three-memory",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q10: Natural Chain",
+        "slug": "q10-natural-chain",
+        "children": []
       }
     ],
-    "path": "/posts/article/article7.html",
+    "path": "/posts/Project/article1.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 8",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article/article8.html",
+    "title": "Project",
+    "headers": [],
+    "path": "/posts/Project/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1021,16 +810,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "使用指南 分类",
+    "title": "CS61a 分类",
     "headers": [],
-    "path": "/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
+    "path": "/category/cs61a/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "禁用 标签",
+    "title": "Disc 标签",
     "headers": [],
-    "path": "/tag/%E7%A6%81%E7%94%A8/",
+    "path": "/tag/disc/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1042,9 +831,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "文章加密 标签",
+    "title": "Tag",
     "headers": [],
-    "path": "/tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/",
+    "path": "/en/tag/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1056,9 +845,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "Markdown 标签",
+    "title": "disable Tag",
     "headers": [],
-    "path": "/tag/markdown/",
+    "path": "/en/tag/disable/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1070,9 +859,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "页面配置 标签",
+    "title": "encryption Tag",
     "headers": [],
-    "path": "/tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/",
+    "path": "/en/tag/encryption/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1080,34 +869,6 @@ export const searchIndex = [
     "title": "CategoryB Category",
     "headers": [],
     "path": "/en/category/categoryb/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "使用指南 标签",
-    "headers": [],
-    "path": "/tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Tag",
-    "headers": [],
-    "path": "/en/tag/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "disable Tag",
-    "headers": [],
-    "path": "/en/tag/disable/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "encryption Tag",
-    "headers": [],
-    "path": "/en/tag/encryption/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -1147,3 +908,16 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ searchIndex }) => {
+    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
+  })
+}

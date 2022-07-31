@@ -6,7 +6,12 @@ export const zh = sidebar({
   "/application/": "structure",
   "/seminar/": "structure",
   "/posts/": "structure",
-  "/posts/article/": "structure",
+  "/guide/": "structure",
+  // "/posts/Disc/": "structure",
+  // "/posts/HW/": "structure",
+  // "/posts/Lab/": "structure",
+  // "/posts/Project/": "structure",
+  // "/posts/article/": "structure",
   
   // "/": [
   //   "",

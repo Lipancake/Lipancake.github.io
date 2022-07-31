@@ -39,8 +39,8 @@ export default defineUserConfig({
     },
     "/": {
       lang: "zh-CN",
-      title: "江南大学",
-      description: "机械工程学院",
+      title: "一个普通的网站",
+      description: "一个普通的网站",
     },
   },
 

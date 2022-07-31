@@ -1,0 +1,32 @@
+---
+icon: edit
+text: Homework
+---
+
+# Homework
+
+- [HW 01](HW01.md)
+
+- [HW 02](HW02.md)
+
+- [HW 03](HW03.md)
+
+- [HW 04](HW04.md)
+
+- [HW 05](HW05.md)
+
+- [HW 06](HW06.md)
+
+- [HW 07](HW07.md)
+
+- [HW 08](HW08.md)
+
+- [HW 09](HW09.md)
+
+- [HW 10](HW10.md)
+
+- [HW 11](HW11.md)
+
+- [HW 12](HW12.md)
+
+- [HW 13](HW13.md)

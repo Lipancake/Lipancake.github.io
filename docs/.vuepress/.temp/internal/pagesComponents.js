@@ -3,48 +3,18 @@ import { defineAsyncComponent } from 'vue'
 export const pagesComponents = {
   // path: /intro.html
   "v-184f4da6": defineAsyncComponent(() => import(/* webpackChunkName: "v-184f4da6" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/intro.html.vue")),
-  // path: /README%20copy.html
-  "v-05cab828": defineAsyncComponent(() => import(/* webpackChunkName: "v-05cab828" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/README copy.html.vue")),
   // path: /
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
-  // path: /slide.html
-  "v-0e503981": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e503981" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/slide.html.vue")),
-  // path: /application/
-  "v-5b9dea58": defineAsyncComponent(() => import(/* webpackChunkName: "v-5b9dea58" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/application/index.html.vue")),
   // path: /en/home.html
   "v-7c2196ed": defineAsyncComponent(() => import(/* webpackChunkName: "v-7c2196ed" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/home.html.vue")),
   // path: /en/
   "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/index.html.vue")),
   // path: /en/slide.html
   "v-50a4c495": defineAsyncComponent(() => import(/* webpackChunkName: "v-50a4c495" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/slide.html.vue")),
-  // path: /guide/disable.html
-  "v-4c863446": defineAsyncComponent(() => import(/* webpackChunkName: "v-4c863446" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/guide/disable.html.vue")),
-  // path: /guide/encrypt.html
-  "v-bf720700": defineAsyncComponent(() => import(/* webpackChunkName: "v-bf720700" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/guide/encrypt.html.vue")),
-  // path: /guide/markdown.html
-  "v-0978b044": defineAsyncComponent(() => import(/* webpackChunkName: "v-0978b044" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/guide/markdown.html.vue")),
-  // path: /guide/page.html
-  "v-4eaf9f84": defineAsyncComponent(() => import(/* webpackChunkName: "v-4eaf9f84" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/guide/page.html.vue")),
-  // path: /guide/
-  "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/guide/index.html.vue")),
-  // path: /paper/
-  "v-e3719748": defineAsyncComponent(() => import(/* webpackChunkName: "v-e3719748" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/paper/index.html.vue")),
-  // path: /people/one.html
-  "v-283a44cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-283a44cc" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/people/one.html.vue")),
-  // path: /people/
-  "v-41699267": defineAsyncComponent(() => import(/* webpackChunkName: "v-41699267" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/people/index.html.vue")),
-  // path: /posts/article10.html
-  "v-5a814a99": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a814a99" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article10.html.vue")),
-  // path: /posts/article11.html
-  "v-5c362338": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c362338" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article11.html.vue")),
-  // path: /posts/article12.html
-  "v-5deafbd7": defineAsyncComponent(() => import(/* webpackChunkName: "v-5deafbd7" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article12.html.vue")),
-  // path: /posts/article9.html
-  "v-7beb5be1": defineAsyncComponent(() => import(/* webpackChunkName: "v-7beb5be1" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article9.html.vue")),
   // path: /posts/
   "v-e1e3da16": defineAsyncComponent(() => import(/* webpackChunkName: "v-e1e3da16" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/index.html.vue")),
-  // path: /seminar/
-  "v-1fa0cd57": defineAsyncComponent(() => import(/* webpackChunkName: "v-1fa0cd57" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/seminar/index.html.vue")),
+  // path: /people/
+  "v-41699267": defineAsyncComponent(() => import(/* webpackChunkName: "v-41699267" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/people/index.html.vue")),
   // path: /en/guide/disable.html
   "v-45af1cf1": defineAsyncComponent(() => import(/* webpackChunkName: "v-45af1cf1" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/guide/disable.html.vue")),
   // path: /en/guide/encrypt.html
@@ -63,22 +33,22 @@ export const pagesComponents = {
   "v-d3a8842a": defineAsyncComponent(() => import(/* webpackChunkName: "v-d3a8842a" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/posts/article12.html.vue")),
   // path: /en/posts/article9.html
   "v-e37ff166": defineAsyncComponent(() => import(/* webpackChunkName: "v-e37ff166" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/posts/article9.html.vue")),
-  // path: /posts/article/article1.html
-  "v-03842690": defineAsyncComponent(() => import(/* webpackChunkName: "v-03842690" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article1.html.vue")),
-  // path: /posts/article/article2.html
-  "v-0538ff2f": defineAsyncComponent(() => import(/* webpackChunkName: "v-0538ff2f" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article2.html.vue")),
-  // path: /posts/article/article3.html
-  "v-06edd7ce": defineAsyncComponent(() => import(/* webpackChunkName: "v-06edd7ce" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article3.html.vue")),
-  // path: /posts/article/article4.html
-  "v-08a2b06d": defineAsyncComponent(() => import(/* webpackChunkName: "v-08a2b06d" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article4.html.vue")),
-  // path: /posts/article/article5.html
-  "v-0a57890c": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a57890c" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article5.html.vue")),
-  // path: /posts/article/article6.html
-  "v-0c0c61ab": defineAsyncComponent(() => import(/* webpackChunkName: "v-0c0c61ab" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article6.html.vue")),
-  // path: /posts/article/article7.html
-  "v-0dc13a4a": defineAsyncComponent(() => import(/* webpackChunkName: "v-0dc13a4a" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article7.html.vue")),
-  // path: /posts/article/article8.html
-  "v-0f7612e9": defineAsyncComponent(() => import(/* webpackChunkName: "v-0f7612e9" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/article/article8.html.vue")),
+  // path: /posts/Disc/Disc02.html
+  "v-fa697746": defineAsyncComponent(() => import(/* webpackChunkName: "v-fa697746" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Disc/Disc02.html.vue")),
+  // path: /posts/Disc/
+  "v-06f03345": defineAsyncComponent(() => import(/* webpackChunkName: "v-06f03345" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Disc/index.html.vue")),
+  // path: /posts/HW/HW1.html
+  "v-c6d0f7fc": defineAsyncComponent(() => import(/* webpackChunkName: "v-c6d0f7fc" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/HW/HW1.html.vue")),
+  // path: /posts/HW/
+  "v-76d125eb": defineAsyncComponent(() => import(/* webpackChunkName: "v-76d125eb" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/HW/index.html.vue")),
+  // path: /posts/Lab/Lab1.html
+  "v-227b47fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-227b47fe" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Lab/Lab1.html.vue")),
+  // path: /posts/Lab/
+  "v-635594d7": defineAsyncComponent(() => import(/* webpackChunkName: "v-635594d7" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Lab/index.html.vue")),
+  // path: /posts/Project/article1.html
+  "v-36b0095a": defineAsyncComponent(() => import(/* webpackChunkName: "v-36b0095a" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/article1.html.vue")),
+  // path: /posts/Project/
+  "v-1eadca4b": defineAsyncComponent(() => import(/* webpackChunkName: "v-1eadca4b" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/index.html.vue")),
   // path: /en/posts/article/article1.html
   "v-7646b408": defineAsyncComponent(() => import(/* webpackChunkName: "v-7646b408" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/posts/article/article1.html.vue")),
   // path: /en/posts/article/article2.html
@@ -129,32 +99,24 @@ export const pagesComponents = {
   "v-3e5b7ba3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3e5b7ba3" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/category/categoryb/index.html.vue")),
   // path: /tag/tag-b/
   "v-06bbb224": defineAsyncComponent(() => import(/* webpackChunkName: "v-06bbb224" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/tag-b/index.html.vue")),
-  // path: /category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-  "v-03d57386": defineAsyncComponent(() => import(/* webpackChunkName: "v-03d57386" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/category/使用指南/index.html.vue")),
-  // path: /tag/%E7%A6%81%E7%94%A8/
-  "v-83e1f92e": defineAsyncComponent(() => import(/* webpackChunkName: "v-83e1f92e" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/禁用/index.html.vue")),
+  // path: /category/cs61a/
+  "v-ba1b2b1e": defineAsyncComponent(() => import(/* webpackChunkName: "v-ba1b2b1e" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/category/cs61a/index.html.vue")),
+  // path: /tag/disc/
+  "v-2850e3ac": defineAsyncComponent(() => import(/* webpackChunkName: "v-2850e3ac" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/disc/index.html.vue")),
   // path: /en/category/
   "v-5decfa84": defineAsyncComponent(() => import(/* webpackChunkName: "v-5decfa84" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/index.html.vue")),
-  // path: /tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
-  "v-1e447d61": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e447d61" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/文章加密/index.html.vue")),
-  // path: /en/category/guide/
-  "v-0fe52c37": defineAsyncComponent(() => import(/* webpackChunkName: "v-0fe52c37" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/guide/index.html.vue")),
-  // path: /tag/markdown/
-  "v-484552dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-484552dc" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/markdown/index.html.vue")),
-  // path: /en/category/categorya/
-  "v-50b026f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b026f0" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/categorya/index.html.vue")),
-  // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
-  "v-a378ad66": defineAsyncComponent(() => import(/* webpackChunkName: "v-a378ad66" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/页面配置/index.html.vue")),
-  // path: /en/category/categoryb/
-  "v-50b0270f": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b0270f" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/categoryb/index.html.vue")),
-  // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
-  "v-7b167472": defineAsyncComponent(() => import(/* webpackChunkName: "v-7b167472" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/tag/使用指南/index.html.vue")),
   // path: /en/tag/
   "v-075c6c62": defineAsyncComponent(() => import(/* webpackChunkName: "v-075c6c62" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/tag/index.html.vue")),
+  // path: /en/category/guide/
+  "v-0fe52c37": defineAsyncComponent(() => import(/* webpackChunkName: "v-0fe52c37" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/guide/index.html.vue")),
   // path: /en/tag/disable/
   "v-c6edb6ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-c6edb6ae" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/tag/disable/index.html.vue")),
+  // path: /en/category/categorya/
+  "v-50b026f0": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b026f0" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/categorya/index.html.vue")),
   // path: /en/tag/encryption/
   "v-0017792c": defineAsyncComponent(() => import(/* webpackChunkName: "v-0017792c" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/tag/encryption/index.html.vue")),
+  // path: /en/category/categoryb/
+  "v-50b0270f": defineAsyncComponent(() => import(/* webpackChunkName: "v-50b0270f" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/category/categoryb/index.html.vue")),
   // path: /en/tag/markdown/
   "v-6f7bfa04": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f7bfa04" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/en/tag/markdown/index.html.vue")),
   // path: /en/tag/page-config/
