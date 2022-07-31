@@ -40,7 +40,7 @@ export default hopeTheme({
       // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/Lipancake/Lipancake.github.io",
       // Gitlab: "https://example.com",
       // Gmail: "https://example.com",
       // Instagram: "https://example.com",
@@ -132,8 +132,8 @@ export default hopeTheme({
       /**
        * Using Twikoo
        */
-      provider: "Twikoo",
-      envId: "https://twikoo.ccknbc.vercel.app",
+      // provider: "Twikoo",
+      // envId: "https://twikoo.ccknbc.vercel.app",
 
       /**
        * Using Waline
