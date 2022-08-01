@@ -39,5 +39,8 @@
 <li>
 <p><RouterLink to="/posts/Lab/Lab13.html">Lab 13</RouterLink></p>
 </li>
+<li>
+<p><RouterLink to="/posts/Lab/Lab14.html">Lab 14</RouterLink></p>
+</li>
 </ul>
 </div></template>

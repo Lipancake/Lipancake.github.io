@@ -1,5 +1,6 @@
 <template><div><h1 id="cs61a-disc-2" tabindex="-1"><a class="header-anchor" href="#cs61a-disc-2" aria-hidden="true">#</a> CS61a DISC 2</h1>
-<p>Link to this section: https://inst.eecs.berkeley.edu/~cs61a/fa21/disc/disc02/#q3-curry2-lambda</p>
+<h1 id="higher-order-functions-self-reference" tabindex="-1"><a class="header-anchor" href="#higher-order-functions-self-reference" aria-hidden="true">#</a> Higher-Order Functions, Self Reference</h1>
+<p>Link to this section: <a href="https://inst.eecs.berkeley.edu/~cs61a/fa21/disc/disc02/" target="_blank" rel="noopener noreferrer">https://inst.eecs.berkeley.edu/~cs61a/fa21/disc/disc02/<ExternalLinkIcon/></a></p>
 <h2 id="q1-make-keeper" tabindex="-1"><a class="header-anchor" href="#q1-make-keeper" aria-hidden="true">#</a> Q1: Make Keeper</h2>
 <p>Write a function that takes in a number n and returns a function that can take in a single parameter cond. When we pass in some condition function cond into this returned function, it will print out numbers from 1 to n where calling cond on that number returns True.</p>
 <CodeTabs :data='[{"title":"Question"},{"title":"Answer"}]' tab-id="Q1">

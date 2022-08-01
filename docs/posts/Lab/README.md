@@ -30,3 +30,5 @@ text: Lab
 - [Lab 12](Lab12.md)
 
 - [Lab 13](Lab13.md)
+
+- [Lab 14](Lab14.md)

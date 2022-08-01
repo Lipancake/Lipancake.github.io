@@ -30,14 +30,5 @@
 <li>
 <p><RouterLink to="/posts/HW/HW10.html">HW 10</RouterLink></p>
 </li>
-<li>
-<p><RouterLink to="/posts/HW/HW11.html">HW 11</RouterLink></p>
-</li>
-<li>
-<p><RouterLink to="/posts/HW/HW12.html">HW 12</RouterLink></p>
-</li>
-<li>
-<p><RouterLink to="/posts/HW/HW13.html">HW 13</RouterLink></p>
-</li>
 </ul>
 </div></template>

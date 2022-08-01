@@ -25,8 +25,3 @@ text: Homework
 
 - [HW 10](HW10.md)
 
-- [HW 11](HW11.md)
-
-- [HW 12](HW12.md)
-
-- [HW 13](HW13.md)

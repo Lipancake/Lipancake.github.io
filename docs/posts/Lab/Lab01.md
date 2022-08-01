@@ -8,8 +8,9 @@ tag:
   - tag B
 ---
 
-# CS61a Lab 1 Variables & Functions, Control
-Link to this section: https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab01/
+# CS61a Lab 1
+# Variables & Functions, Control
+Link to this section: <https://inst.eecs.berkeley.edu/~cs61a/fa20/lab/lab01/>
 ## Q1-3: WWPD
 自己跑一遍代码
 
