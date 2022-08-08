@@ -7,6 +7,9 @@
 <p><RouterLink to="/posts/Project/Project02.html">Project 02 CS 61A Autocorrected Typing Software</RouterLink></p>
 </li>
 <li>
+<p><RouterLink to="/posts/Project/Project02WWPD.html">Project 02 CS 61A WWPD</RouterLink></p>
+</li>
+<li>
 <p><RouterLink to="/posts/Project/Project03.html">Project 03 Ants Vs. SomeBees</RouterLink></p>
 </li>
 <li>

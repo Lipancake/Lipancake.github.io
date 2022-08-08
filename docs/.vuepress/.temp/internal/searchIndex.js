@@ -413,8 +413,38 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Q1: Make Keeper",
-        "slug": "q1-make-keeper",
+        "title": "Q1: Warm Up: Recursive Multiplication",
+        "slug": "q1-warm-up-recursive-multiplication",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: Recursion Environment Diagram",
+        "slug": "q2-recursion-environment-diagram",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: Find the Bug",
+        "slug": "q3-find-the-bug",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Is Prime",
+        "slug": "q4-is-prime",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Recursive Hailstone",
+        "slug": "q5-recursive-hailstone",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q6: Merge Numbers",
+        "slug": "q6-merge-numbers",
         "children": []
       }
     ],
@@ -427,8 +457,32 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Q1: Make Keeper",
-        "slug": "q1-make-keeper",
+        "title": "Q1: Count Stair Ways",
+        "slug": "q1-count-stair-ways",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: Count K",
+        "slug": "q2-count-k",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: WWPD: Lists",
+        "slug": "q3-wwpd-lists",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Even weighted",
+        "slug": "q4-even-weighted",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Max Product",
+        "slug": "q5-max-product",
         "children": []
       }
     ],
@@ -861,8 +915,38 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Q1: Make Keeper",
-        "slug": "q1-make-keeper",
+        "title": "Q1: List Indexing",
+        "slug": "q1-list-indexing",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: Skip Add",
+        "slug": "q2-skip-add",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: Summation",
+        "slug": "q3-summation",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: Insect Combinatorics",
+        "slug": "q4-insect-combinatorics",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: Maximum Subsequence",
+        "slug": "q5-maximum-subsequence",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q6: Add Characters",
+        "slug": "q6-add-characters",
         "children": []
       }
     ],
@@ -1042,6 +1126,74 @@ export const searchIndex = [
       }
     ],
     "path": "/posts/Project/Project02.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "CS61a Project 2 WWPD",
+    "headers": [
+      {
+        "level": 2,
+        "title": "Q1: WWPD",
+        "slug": "q1-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q2: WWPD",
+        "slug": "q2-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q3: WWPD",
+        "slug": "q3-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q4: WWPD",
+        "slug": "q4-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q5: WWPD",
+        "slug": "q5-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q6: WWPD",
+        "slug": "q6-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q7: WWPD",
+        "slug": "q7-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q8: WWPD",
+        "slug": "q8-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q9: WWPD",
+        "slug": "q9-wwpd",
+        "children": []
+      },
+      {
+        "level": 2,
+        "title": "Q10: WWPD",
+        "slug": "q10-wwpd",
+        "children": []
+      }
+    ],
+    "path": "/posts/Project/Project02WWPD.html",
     "pathLocale": "/",
     "extraFields": []
   },

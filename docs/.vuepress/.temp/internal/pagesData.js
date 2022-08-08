@@ -113,6 +113,8 @@ export const pagesData = {
   "v-97307d2c": () => import(/* webpackChunkName: "v-97307d2c" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/Project01.html.js").then(({ data }) => data),
   // path: /posts/Project/Project02.html
   "v-93c6cbee": () => import(/* webpackChunkName: "v-93c6cbee" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/Project02.html.js").then(({ data }) => data),
+  // path: /posts/Project/Project02WWPD.html
+  "v-3b9eec96": () => import(/* webpackChunkName: "v-3b9eec96" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/Project02WWPD.html.js").then(({ data }) => data),
   // path: /posts/Project/Project03.html
   "v-905d1ab0": () => import(/* webpackChunkName: "v-905d1ab0" */"C:/Users/lyb/Desktop/html/Lipancake.github.io/docs/.vuepress/.temp/pages/posts/Project/Project03.html.js").then(({ data }) => data),
   // path: /posts/Project/Project04.html
