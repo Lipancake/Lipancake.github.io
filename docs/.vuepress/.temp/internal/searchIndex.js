@@ -495,8 +495,8 @@ export const searchIndex = [
     "headers": [
       {
         "level": 2,
-        "title": "Q1: Make Keeper",
-        "slug": "q1-make-keeper",
+        "title": "Q1: Tree Abstraction Barrier",
+        "slug": "q1-tree-abstraction-barrier",
         "children": []
       }
     ],
